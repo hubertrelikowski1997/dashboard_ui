@@ -16,7 +16,7 @@ import {
 
 const AttendanceChart = () => {
   return (
-    <div className="p-4 bg-white rounded-lgm h-full">
+    <div className="p-4 bg-white rounded-lg h-full">
       <div className="flex justify-between items-center text-lg font-semibold">
         <h1>Attendance</h1>
         <Image src="/moreDark.png" alt="moreDark" width={20} height={20} />

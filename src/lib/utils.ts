@@ -158,3 +158,61 @@ export const dataAttendanceChart = [
     absent: 40,
   },
 ];
+
+export const dataFinanseChart = [
+  {
+    name: "Jun",
+    income: 1234,
+    expense: 4334,
+  },
+  {
+    name: "Frb",
+    income: 6543,
+    expense: 7764,
+  },
+  {
+    name: "Mar",
+    income: 65654,
+    expense: 77654,
+  },
+  {
+    name: "Apr",
+    income: 6543,
+    expense: 7847,
+  },
+  {
+    name: "May",
+    income: 6536,
+    expense: 7653,
+  },
+  {
+    name: "Jun",
+    income: 66745,
+    expense: 5443,
+  },
+  {
+    name: "Jul",
+    income: 75643,
+    expense: 5446,
+  },
+  {
+    name: "Sep",
+    income: 2345,
+    expense: 5435,
+  },
+  {
+    name: "Oct",
+    income: 6554,
+    expense: 9987,
+  },
+  {
+    name: "Nov",
+    income: 5678,
+    expense: 8766,
+  },
+  {
+    name: "Dec",
+    income: 45567,
+    expense: 6553,
+  },
+];
