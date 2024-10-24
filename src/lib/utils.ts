@@ -130,3 +130,31 @@ export const dataCountChart = [
     fill: "white",
   },
 ];
+
+export const dataAttendanceChart = [
+  {
+    name: "Mon",
+    present: 60,
+    absent: 40,
+  },
+  {
+    name: "Thu",
+    present: 55,
+    absent: 45,
+  },
+  {
+    name: "Wed",
+    present: 80,
+    absent: 20,
+  },
+  {
+    name: "Thu",
+    present: 30,
+    absent: 70,
+  },
+  {
+    name: "Fri",
+    present: 60,
+    absent: 40,
+  },
+];
