@@ -10,6 +10,12 @@ const config: Config = {
     extend: {
       colors: {
         backColor: "#F7F8FA",
+        sky: "#C3EBFA",
+        lightSky: "#EDF9FD",
+        purple: "#CFCEFF",
+        purpleLight: "#F1F0FF",
+        yellow: "#FAE27C",
+        yellowLight: "#FEFCE8",
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
