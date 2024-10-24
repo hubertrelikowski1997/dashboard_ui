@@ -112,3 +112,21 @@ export const menuItems = [
     ],
   },
 ];
+
+export const dataCountChart = [
+  {
+    name: "Boys",
+    count: 55,
+    fill: "#C3EBFA",
+  },
+  {
+    name: "Girls",
+    count: 45,
+    fill: "#FAE27C",
+  },
+  {
+    name: "Total",
+    count: 106,
+    fill: "white",
+  },
+];
