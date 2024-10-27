@@ -19,10 +19,10 @@
 </ul>
 
 <h2>Screenshots</h2>
-<img src="./mnt/data/SchoolDash-das.jpeg" alt="SchoolDash Main Dashboard">
-<img src="./mnt/data/SchoolDash-teach.jpeg" alt="Teacher Overview">
-<img src="./mnt/data/SchoolDash-T.jpeg" alt="Admin Features">
-<img src="./mnt/data/SchoolDash.jpeg" alt="Admin Features">
+<img src="/public/SchoolDash-das.jpeg" alt="SchoolDash Main Dashboard">
+<img src="/public/SchoolDash-teach.jpeg" alt="Teacher Overview">
+<img src="/public/SchoolDash-T.jpeg" alt="Admin Features">
+<img src="/public/SchoolDash.jpeg" alt="Admin Features">
 
 <h2>Getting Started</h2>
 <p>To run the project locally, follow these steps:</p>
